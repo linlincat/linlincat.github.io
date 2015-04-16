@@ -11,14 +11,11 @@ TEL：*18210835790* &nbsp;&nbsp;&nbsp;&nbsp;E-mail:*283125476@qq.com*
 ##Describe掌握描述
 工作中需要用到的软件，以及开发工程中需要用到的工具【语言】~~
 
-
     * gulpJs\gruntJs\angularJs\inoic\bootstrap\git\略有了解；
     * 熟知（X）HTML于DIV+CSS重构，使之兼容各路浏览器：ie6,ie7,ie8,ie9,Firefox（火狐）,Google
     *（谷歌）等常用浏览器；
     * 熟练使用 Sublime\PhotoShop\Dreamweaver\koala这些工具  [word....这些应该就不用些了]；
     * 熟练使用JQuery【对JavaScript也有如许了解】 H-five css-3 这些也是略有了解，万不敢称之熟练；
-
-
 
 ##Work工作经历
 非前端的那段就不写了，就从美工\制作开始吧~~
