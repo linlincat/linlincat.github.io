@@ -11,11 +11,11 @@ TEL：*18210835790* &nbsp;&nbsp;&nbsp;&nbsp;E-mail:*283125476@qq.com*
 工作中需要用到的软件，以及开发工程中需要用到的工具【语言】~~
 
 
-    * gulpJs\gruntJs\angularJs\inoic\bootstrap\git\略有了解；
+    * gulpJs\gruntJs\angularJs\inoic\bootstrap\git\flash略有了解；
     * 熟知（X）HTML于DIV+CSS重构，使之兼容各路浏览器：ie6,ie7,ie8,ie9,Firefox（火狐）,Google
-    *（谷歌）等常用浏览器；
+    *（谷歌）等常用浏览器,各种常见页面JS特效；
     * 熟练使用 Sublime\PhotoShop\Dreamweaver\koala这些工具  [word....这些应该就不用写了]；
-    * 熟练使用JQuery【对JavaScript也有如许了解】 H-five css-3 这些也是略有了解，万不敢称之熟练；
+    * 开发使用技术H5,css3,jQuery,sass...；
 
 
 
@@ -32,6 +32,41 @@ TEL：*18210835790* &nbsp;&nbsp;&nbsp;&nbsp;E-mail:*283125476@qq.com*
     * 时隔多月，来到了大科码。温馨的团队，让人不舍。开始了时隔两年来的一起前进着。稳定着
     * 自己的前端位置。接触了很多大型项目；
     * 有了很多自己没有的尝试，很多的第一次，第二次~~  前进的路还在前进着。。。。
+
+##Work工作历程
+从开始前端工作开始
+
+   ####2013/06 -- 至今
+   
+   * 北京科码先锋软件技术有限公司 | WEB前端开发
+   * 前端页面制作重构  DIV+CSS+JS（Jquery）
+   * 隶属交付部，WeB制作开发
+   * 开发使用技术DIV+css,H5,css3,jQuery,sass...；
+
+   相关作品：
+   > http://www.womai.com/index-0-0.htm     http://www.subuy.com/index-0-0.htm
+   > http://www.yidianchina.com/index.htm 等
+   
+   
+   ####2012/0 -- 2013/03
+   
+   * 北京兴宇中科科技开发股份有限公司 | 网页制作工程师
+   * 负责公司产品页面，网站页面制作（Div+Css布局）及公司相关内容页面制作工作。
+   * 能够同时兼容ie6,ie7,ie8,ie9,Firefox（火狐）,Google（谷歌）等主流浏览器。
+   * 常用页面效果制作与网站样式整理优化工作。参与美工设计工作（空闲时协助）.
+   * 公司网站：http://www.99pan.com
+   
+
+   ####2011/04 -- 2012/08
+   
+   * 机房360网站（www.jifang360.com） | 制作/美工
+   * 页面制作/设计     DIV+CSS布局及JS效果。浏览器兼容测试，网站日常维护与更新；
+   * 活动专题设计制作与产品专题设计制作。商家广告设计制作。
+   * 设计软件：用PhotoShop做效果图。页面制作软件：dw
+
+   相关作品：
+   > http://www.jifang360.com/special/cloudage/      http://www.jifang360.com/special/bigdata/
+   > http://www.jifang360.com/special/Dell_Server/   http://www.jifang360.com/special/IDChuiyi/
 
 
 > education --- 　　教育经历
