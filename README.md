@@ -17,9 +17,8 @@ TEL：*18210835790* &nbsp;&nbsp;&nbsp;&nbsp;E-mail:*283125476@qq.com*
     * 熟练使用 Sublime\PhotoShop\Dreamweaver\koala这些工具  [word....这些应该就不用写了]；
     * 开发使用技术H5,css3,jQuery,sass...；
     * 简单说我并不是完善在前端人员，在移动开发上经验并不丰富。专职移动开发请绕过。薪资要求15K+
-    * <span style="font-size:20px; color:red; font-weight:bold">非诚勿扰！</span>
 
-
+<p style="font-size:20px; color:red; font-weight:bold">非诚勿扰！</p>
 
 ##Work工作经历
 非前端的那段就不写了，就从美工\制作开始吧~~
